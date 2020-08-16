@@ -10,3 +10,7 @@ Using:
 Available commands:
 
 `/execute_lua` command executes a command on your ingame computer.
+
+Example of using:
+
+https://www.youtube.com/watch?v=WLZWleUudEY
