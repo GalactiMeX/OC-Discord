@@ -44,4 +44,4 @@ fg = threading.Thread(name='foreground', target=foreground)
 
 bg.start()
 fg.start()
-client.run('NzAyNTkwMTYwMDE3MDMxMjE4.Xu3wag.-iA1P9uCnqH9sRfAZmYeMvztwA4')
+client.run(' ') #your token here
